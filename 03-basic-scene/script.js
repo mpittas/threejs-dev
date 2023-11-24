@@ -9,7 +9,7 @@ scene.add(cube)
 
 // Sizes
 const sizes = {
-  width: 800,
+  width: 850,
   height: 600
 }
 
